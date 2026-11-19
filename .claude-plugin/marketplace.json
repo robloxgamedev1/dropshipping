@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dropshipping",
+  "description": "15 ecommerce skills: product research, ads, UGC scripts, hooks, checkout fixes, support, chargebacks, sourcing, AOV.",
+  "owner": {
+    "name": "robloxgamedev1"
+  },
+  "plugins": [
+    {
+      "name": "dropshipping",
+      "description": "15 ecommerce skills: product research, ads, UGC scripts, hooks, checkout fixes, support, chargebacks, sourcing, AOV.",
+      "source": "./"
+    }
+  ]
+}
